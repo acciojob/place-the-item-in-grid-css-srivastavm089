@@ -1,8 +1,4 @@
 .holder{
-    display: block;
-    grid: 200px 200px;
-    grid-row: span;
-    grid-column: span;
-   
-    border: 1px solid black;
+    
+    
 }
